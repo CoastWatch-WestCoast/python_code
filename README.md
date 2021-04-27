@@ -1,4 +1,4 @@
-# python_code
+# python_code 
 
 ## Viewing the exercises
 The exercises are a series of Jupyter Notebooks that are hosted on a GitHub repository. You can view a single exercise to see if it is of interest by 
