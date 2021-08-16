@@ -5,6 +5,8 @@ dependencies:
   - python=3.9
   - cartopy
   - cmocean
+  - jupyter
+  - jupyterlab
   - matplotlib
   - netCDF4
   - pandas
