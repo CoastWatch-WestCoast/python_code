@@ -1,0 +1,15 @@
+name: coastwatch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - cartopy
+  - cmocean
+  - matplotlib
+  - netCDF4
+  - pandas
+  - pyproj 
+  - requests
+  - shapely
+  - statsmodels
+  - xarray
