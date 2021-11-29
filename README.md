@@ -20,8 +20,8 @@ This exercise shows you how to duplicate the rerddapXtracto functions demonstrat
   * Extract environmental data from an ERDDAP server in an rectangular bounding box (polygon) over time.
   * Extract environmental data from an ERDDAP server in an irregular bounding box (polygon) over time, e.g. a marine protected area.  
 
-2. **Creating a virtual buoy data**   
+2. **[Creating a virtual buoy data](virtual_buoy_example_geopolar.ipynb)**   
 Create a virtual buoy from satellite data for locations where in-situ buoy data may not be available or has been discontinued.  
 
-3. **Comparing timeseries from different sensors**
+3. **[Comparing timeseries from different sensors](compare_sensor_data.ipynb)**
 Several ocean color sensors have been launched since 1997 to provide continuous global ocean color data. Chlorophyll-a values can vary among the sensors during periods where measurements overlap. This exercise examines that variability.
