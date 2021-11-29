@@ -14,7 +14,7 @@ jupyter notebook
 ```
 
 ## Exercises
-1. **Emulating the R rerddapXtracto functions**  
+1. **[Emulating the R rerddapXtracto functions](py_xtractomatic.ipynb)**  
 This exercise shows you how to duplicate the rerddapXtracto functions demonstrated in R tutorial section of the course.  
   * Extract environmental data from an ERDDAP server along an x,y and time trajectory, e.g. an animal or cruise track.
   * Extract environmental data from an ERDDAP server in an rectangular bounding box (polygon) over time.
