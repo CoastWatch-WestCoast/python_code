@@ -21,12 +21,14 @@ jupyter notebook
 3. Use a terminal window to navigate to the unzipped folder 
 
 The following commands:  
+* Update conda
 * Create a new conda environment named 'coastwatch' and load the required modules to it  
 * Activate the environment  
 * Runs a script that checks for any missing modules  
 * Launches jupyter-lab for displaying the jupyter notebook tutorials  
 
 ```
+conda update conda
 conda env create -f environment.yml
 conda activate coastwatch
 python check_modules.py
