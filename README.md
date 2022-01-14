@@ -16,7 +16,7 @@ jupyter notebook
 ## Running the exercises
 ### Setup and test your python environment: 
 
-1. Make sure you have __conda__ installed on your machine
+1. Make sure you have __python 3__ and __conda__ installed on your machine
 2. Download this repository. Use the green __Code__ dropdown to select __Download Zip__ and unzip to a location on your computer
 3. Use a terminal window to navigate to the unzipped folder 
 
