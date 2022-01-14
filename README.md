@@ -5,19 +5,14 @@ The python exercises are a series of Jupyter Notebooks that are hosted on a GitH
 clicking the linked name of each exercise in the **Exercises** section below. A non-executable version of the exercise will open in a new browser window.   
 
 <!--If you want an executable version of a single Notebook, you can save a Notebook to your computer using the save menu in your browser while viewing the file online. To get all of the Notebooks, you can go to the GitHub repository and download a zip file with all of the exercises included. To download the repo and run the Notebooks on your computer:
-* Go to the GitHub repo page that lists all the files and folders in the python_code repo
-* From the green "Code" dropdown, select "Download Zip"
-* Unzip to a location on your computer
-* In a terminal, navigate to the unzipped folder and launch Jupyter Notebook by entering:
-```
-jupyter notebook 
-```
 -->
 ## Running the exercises
 ### Setup and test your python environment: 
 
 1. Make sure you have __python 3__ and __conda__ installed on your machine
-2. Download this repository. Use the green __Code__ dropdown to select __Download Zip__ and unzip to a location on your computer
+2. Download this repository. 
+    * Use the green __Code__ dropdown to select __Download Zip__ and unzip to a location on your computer
+    * Or [use this zip file link](https://github.com/CoastWatch-WestCoast/python_code/archive/refs/heads/satellite_course_jan_2022.zip)
 3. Use a terminal window to navigate to the unzipped folder 
 
 The following commands:  
